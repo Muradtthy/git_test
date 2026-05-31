@@ -4,6 +4,6 @@ def name():
 name()
 
 def name1():
-    print("Murad")
+    print("Harut")
 
 name1()
